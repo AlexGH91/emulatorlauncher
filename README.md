@@ -39,7 +39,7 @@ Both options can be combined: with both enabled RetroBat does not touch the emul
 The options are declared in `.emulationstation/es_features.cfg` and appear under **GENERAL SETTINGS** as *KEEP USER EMULATOR SETTINGS* and *KEEP USER CONTROLLER SETTINGS*:
 
 - per system: game list → **SELECT** → *Advanced system options*
-- per game: hold **South** on a game → *Advanced game options*
+- per game: hold the **South** button (A on Xbox, Cross on PlayStation, B on Nintendo) on a game → *Advanced game options*
 
 ### Manually in `es_settings.cfg`
 
